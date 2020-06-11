@@ -1,0 +1,561 @@
+I"�8<p>A list of all the posts and pages found on the site. For you robots out there is an <a href="/test/sitemap.xml">XML version</a> available for digesting as well.</p>
+
+<h2>Pages</h2>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/test/404.html" rel="permalink">Page Not Found</a>
+      
+    </h2>
+    
+    <p class="archive__item-excerpt" itemprop="description">Page not found. Your pixels are in another canvas.
+</p>
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/test/about-me/" rel="permalink">Posts by Collection</a>
+      
+    </h2>
+    
+    
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/test/archive-layout-with-content/" rel="permalink">Archive Layout with Content</a>
+      
+    </h2>
+    
+    
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/test/categories/" rel="permalink">Posts by Category</a>
+      
+    </h2>
+    
+    
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/test/categories/edge-case/" rel="permalink">Edge Case</a>
+      
+    </h2>
+    
+    
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/test/" rel="permalink"></a>
+      
+    </h2>
+    
+    <p class="archive__item-excerpt" itemprop="description">Develop quickly, perfectly and on time delivery
+</p>
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/test/lorem-ipsum/" rel="permalink">Lorem Ipsum</a>
+      
+    </h2>
+    
+    
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/test/tags/markup/" rel="permalink">Markup</a>
+      
+    </h2>
+    
+    
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/test/page-a/" rel="permalink">Page A</a>
+      
+    </h2>
+    
+    
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/test/page-archive/" rel="permalink">Page Archive</a>
+      
+    </h2>
+    
+    
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/test/page-b/" rel="permalink">Page B</a>
+      
+    </h2>
+    
+    
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/test/portfolio/" rel="permalink">Portfolio</a>
+      
+    </h2>
+    
+    
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/test/_pages/post-archive-feature-rows/" rel="permalink"></a>
+      
+    </h2>
+    
+    
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/test/recipes-archive/" rel="permalink">Recipes</a>
+      
+    </h2>
+    
+    
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/test/sample-page/" rel="permalink">Sample Page</a>
+      
+    </h2>
+    
+    
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/test/search/" rel="permalink">Search</a>
+      
+    </h2>
+    
+    
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/test/sitemap/" rel="permalink">Sitemap</a>
+      
+    </h2>
+    
+    
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/test/splash-page/" rel="permalink">Develop with quality</a>
+      
+    </h2>
+    
+    <p class="archive__item-excerpt" itemprop="description">Develop quickly, perfectly and on time delivery
+</p>
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/test/tags/" rel="permalink">Posts by Tag</a>
+      
+    </h2>
+    
+    
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/test/terms/" rel="permalink">Terms and Privacy Policy</a>
+      
+    </h2>
+    
+    
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/test/year-archive/" rel="permalink">Own developed products</a>
+      
+    </h2>
+    
+    
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/test/assets/css/main.css" rel="permalink"></a>
+      
+    </h2>
+    
+    
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/test/assets/js/lunr/lunr-en.js" rel="permalink"></a>
+      
+    </h2>
+    
+    
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/test/assets/js/lunr/lunr-gr.js" rel="permalink"></a>
+      
+    </h2>
+    
+    
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/test/assets/js/lunr/lunr-store.js" rel="permalink"></a>
+      
+    </h2>
+    
+    
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/test/sitemap.xml" rel="permalink"></a>
+      
+    </h2>
+    
+    
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/test/robots.txt" rel="permalink"></a>
+      
+    </h2>
+    
+    
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/test/feed.xml" rel="permalink"></a>
+      
+    </h2>
+    
+    
+  </article>
+</div>
+
+<h2>Posts</h2>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/test/edge%20case/eBook/" rel="permalink">Edge Case: Many Tags
+</a>
+      
+    </h2>
+    
+      <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  less than 1 minute read
+
+</p>
+    
+    <p class="archive__item-excerpt" itemprop="description">This post has many tags.
+</p>
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/test/edge%20case/fix-atdl/" rel="permalink">Edge Case: Nested and Mixed Lists
+</a>
+      
+    </h2>
+    
+      <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> 
+
+
+
+
+  less than 1 minute read
+
+</p>
+    
+    <p class="archive__item-excerpt" itemprop="description">Nested and mixed lists are an interesting beast. It’s a corner case to make sure that
+</p>
+  </article>
+</div>
+
+<h2>pets</h2>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/test/pets/lhasa-apso/" rel="permalink">Lhasa Apso
+</a>
+      
+    </h2>
+    
+    <p class="archive__item-excerpt" itemprop="description">The Lhasa Apso is a non-sporting dog breed originating in Tibet.
+</p>
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/test/pets/tabby/" rel="permalink">Tabby
+</a>
+      
+    </h2>
+    
+    <p class="archive__item-excerpt" itemprop="description">A tabby is any domestic cat that has a coat featuring distinctive stripes, dots, lines or swirling patterns, usually with a mark resembling an ‘M’ on its for...</p>
+  </article>
+</div>
+
+<h2>portfolio</h2>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/test/portfolio/baz-boom-identity/" rel="permalink">Baz Boom Identity
+</a>
+      
+    </h2>
+    
+    <p class="archive__item-excerpt" itemprop="description">Baz Boom design system including logo mark, website design, and branding applications.
+</p>
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/test/portfolio/fizz-bang-identity/" rel="permalink">Fizz Bang Identity
+</a>
+      
+    </h2>
+    
+    <p class="archive__item-excerpt" itemprop="description">Fizz Bang design system including logo mark, website design, and branding applications.
+</p>
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/test/portfolio/foo-bar-website/" rel="permalink">Foo Bar Identity
+</a>
+      
+    </h2>
+    
+    <p class="archive__item-excerpt" itemprop="description">Foo Bar design system including logo mark, website design, and branding applications.
+</p>
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/test/portfolio/ginger-gulp-identity/" rel="permalink">Ginger Gulp Identity
+</a>
+      
+    </h2>
+    
+    <p class="archive__item-excerpt" itemprop="description">Ginger Gulp design system including logo mark, website design, and branding applications.
+</p>
+  </article>
+</div>
+
+<h2>recipes</h2>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/test/recipes/chocolate-chip-cookies/" rel="permalink">Chocolate Chip Cookies
+</a>
+      
+    </h2>
+    
+    <p class="archive__item-excerpt" itemprop="description">A chocolate chip cookie is a drop cookie that originated in the United States and features chocolate chips as its distinguishing ingredient.
+</p>
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/test/recipes/oatmeal-cookies/" rel="permalink">Oatmeal Cookies
+</a>
+      
+    </h2>
+    
+    <p class="archive__item-excerpt" itemprop="description">Oatmeal cookies are a proverbial favorite with both kids and adults. This crisp and chewy cookie is loaded with oats, dried fruit, and chopped nuts.
+</p>
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="https://schema.org/CreativeWork">
+    
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/test/recipes/peanut-butter-cookies/" rel="permalink">Peanut Butter Cookies
+</a>
+      
+    </h2>
+    
+    <p class="archive__item-excerpt" itemprop="description">A peanut butter cookie is a type of cookie that is distinguished for having peanut butter as a principal ingredient. The cookie generally originated in the U...</p>
+  </article>
+</div>
+
+:ET
