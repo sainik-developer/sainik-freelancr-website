@@ -1,12 +1,11 @@
 ---
 layout: archive
-title: "Posts by Collection"
+title: "About Me"
 permalink: /about-me/
 author_profile: true
 ---
 
-*Make development simple and high quality.* I am having 10 years of experiences of developing software with large, small and R&D companies in India and Europe. Having xperiece in completing successful Android and full stack application with proper architecture.Completed one Android sdk for with flip paging with reasonable amount of clean code related architecture.
-
+**Make development quick and high quality.** I am having 10 years of experiences of developing software with large, small and R&D companies in India and Europe. Having xperiece in completing successful Android and full stack application with proper architecture.Completed one Android sdk for with flip paging with reasonable amount of clean code related architecture.
 
 ## Skills 
  * Programming Language : Java(8+ and prior), Kotlin, Scala, , Java script, Type script, Shell script.
