@@ -51,33 +51,33 @@ algolia:
   search_only_api_key    : "9d5014e5bbc77372547bce778dfa5663"
   powered_by             : true
 
-# SEO Related
-google_site_verification :
-bing_site_verification   :
-yandex_site_verification :
+# # SEO Related
+# google_site_verification :
+# bing_site_verification   :
+# yandex_site_verification :
 
-# Social Sharing
-twitter:
-  username               : "mmistakes"
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 : "/assets/images/bio-photo.jpg"
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
-    # - https://twitter.com/
-    - https://github.com/
+# # Social Sharing
+# twitter:
+#   username               : "mmistakes"
+# facebook:
+#   username               :
+#   app_id                 :
+#   publisher              :
+# og_image                 : "/assets/images/bio-photo.jpg"
+# # For specifying social profiles
+# # - https://developers.google.com/structured-data/customize/social-profiles
+# social:
+#   type                   : # Person or Organization (defaults to Person)
+#   name                   : # If the user or organization name differs from the site's name
+#   links: # An array of links to social media profiles
+#     # - https://twitter.com/
+#     - https://github.com/
 
-# Analytics
-analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
-  google:
-    tracking_id          :
+# # Analytics
+# analytics:
+#   provider               : false # false (default), "google", "google-universal", "custom"
+#   google:
+#     tracking_id          :
 
 
 # Site Author
@@ -87,13 +87,12 @@ author:
   bio              : "I am software developer with 10+ years of experience in Android, Java, AWS and React.js"
   location         : "Bangalore, India"
   links:
-    - label: "My Website"
+    - label: "www.sainik-freelancing.me"
       icon: "fas fa-fw fa-link"
-      url: "https://sainik-developer.github.io/sainik-profile/"
+      url: "https://sainik-developer.github.io/sainik-freelancr-website"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/sainik-developer"
-
+      url: "https://github.com/sc659987"
 
 # Site Footer
 footer:
@@ -101,7 +100,6 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/sainik-developer"
-
 
 # Reading Files
 include:
