@@ -10,7 +10,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sixfingers.com"
+title                    : "Sainik Development"
 title_separator          : "-"
 subtitle                 : "Software development freelancing"
 name                     : "Sainik"
@@ -19,7 +19,7 @@ url                      : # the base hostname & protocol for your site e.g. "ht
 baseurl                  : "/sainik-freelancr-website"  
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/apple-touch-icon.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/logo.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "Sixfingers.com" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -84,7 +84,7 @@ analytics:
 author:
   name             : "Sainik"
   avatar           : "/assets/images/sainik.png"
-  bio              : "I am software developer with 10+ years of experience"
+  bio              : "I am software developer with 10+ years of experience in Android, Java, AWS and React.js"
   location         : "Bangalore, India"
   links:
     - label: "My Website"
