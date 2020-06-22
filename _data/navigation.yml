@@ -5,7 +5,7 @@ main:
   - title: "Products"
     url: /products/
   - title: "Contact Me"
-    url: /collection-archive/
+    url: /contact-me/
 
 # sidebar navigation list sample
 sidebar-atdl:
