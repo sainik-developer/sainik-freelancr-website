@@ -32,11 +32,6 @@ Ask-Fast (Almende Investment), Bangalore, India
 Senior Software Engineer/Lead
 May-2019 - Present
 
-
-
-
-
-
 ## Educations
 
  * M.TECH (IT) IIIT Allahabad  with 9.4 CGPA (2012-2014) 
