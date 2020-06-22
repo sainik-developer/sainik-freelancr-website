@@ -5,7 +5,8 @@ permalink: /about-me/
 author_profile: true
 ---
 
-**Make development quick and high quality.** I am having 10 years of experiences of developing software with large, small and R&D companies in India and Europe. Having xperiece in completing successful Android and full stack application with proper architecture.Completed one Android sdk for with flip paging with reasonable amount of clean code related architecture.
+**Make development quick and high quality.** 
+My name is Sainik Chattapadhyay,having 10 years of experiences of developing software with large, small and R&D companies in India and Europe. I have complated my Master in Technology from *Indian Institute of Information Technology, Allahabad*code related. Having experiece in completing successfully Android and full stack application with best architecture.I have my own android library and which is partly open-sourced at [link to EBook Player!] https://github.com/sainik-developer/ebook_Player
 
 ## Skills 
  * Programming Language : Java(8+ and prior), Kotlin, Scala, , Java script, Type script, Shell script.
