@@ -39,10 +39,10 @@ My name is Sainik Chattapadhyay,having 10+ years of experiences of developing so
  * Amdocs,Pune,India
    Subject Matter Expert Aug 2014 - Nov 2014
 
- * Software Ag Inc & all
+ * Software Ag Inc
    JUNE 2009 – AUG 2011
 
 ## Educations
 
  * M.TECH (IT) IIIT Allahabad  with 9.4 CGPA (2012-2014) 
- * B.TECH (CSE)  Govt College of Engineering, Serampore with 8.3 CGPA (2005-2009) 
+ * B.TECH (CSE)  Govt College of Engineering, Serampore with 8.3 CGPA (2005-2009)
