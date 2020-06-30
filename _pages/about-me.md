@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## **Intro** 
-My name is Sainik Chattapadhyay,having 10+ years of experiences of developing software with large, small and R&D companies in India and Europe. I have complated my Master in Technology from *Indian Institute of Information Technology, Allahabad*code related. Having experiece in completing successfully Android and full stack application with best architecture.I have my own android library and which is partly open-sourced at [link to EBook Player!](https://github.com/sainik-developer/ebook_Player)
+My name is Sainik Chattapadhyay,having 10+ years of experiences of developing software with large, small and R&D companies in India and Europe. I have complated my Master of Technology from *Indian Institute of Information Technology, Allahabad*. Experiece in developing Android app and full stack app with best architecture.I have my own android library and which is partly open-sourced at [link to EBook Player!](https://github.com/sainik-developer/ebook_Player). I am experienced with software architecture for android and backend system. I have long exposure of AWS architecture. 
 
 ## Skills 
  * Programming Language : Java(8+ and prior), Kotlin, Scala, , Java script, Type script, Shell script.
@@ -16,22 +16,31 @@ My name is Sainik Chattapadhyay,having 10+ years of experiences of developing so
  * Subjects : Algorithm & data structure, Networking.
 
 ## Exeprience
-Faunhofer IESE, Kaiserslautern, Germany 
-Software Engineer 
-2015-2017
+ * Ask-Fast (Almende Investment), Bangalore, India
+   Senior Software Engineer/Lead
+   May-2019 – March 2020
 
-Amdocs,Pune,India 
-2014
+ * Impressico Pvt ltd, Delhi, India
+   Senior Software Engineer
+   June 2018-May-2019
 
-Software Ag Inc
-2009-2011
+ * Freelancer, India
+   Owner , Developer
+   June 2017-June 2018
 
-Webengage
+ * Faunhofer IESE, Kaiserslautern, Germany
+   Software Engineer
+   Oct-2015 – Jan 2017
 
-Ask-Fast (Almende Investment), Bangalore, India
+ * WebEngage and Pickingo (Startup) , Delhi, India Team Lead
+   Dec 2014 – Sep 2015
+   App link: https://play.google.com/store/apps/details?id=com.pickingo.fe&hl=de
 
-Senior Software Engineer/Lead
-May-2019 - Present
+ * Amdocs,Pune,India
+   Subject Matter Expert Aug 2014 - Nov 2014
+
+ * Software Ag Inc & all
+   JUNE 2009 – AUG 2011
 
 ## Educations
 
