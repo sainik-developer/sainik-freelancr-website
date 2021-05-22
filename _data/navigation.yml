@@ -4,6 +4,7 @@ main:
     url: /about-me/
   - title: "Products"
     url: /products/
+  - title: "Technical Blogs"
   - title: "Contact Me"
     url: /contact-me/
 

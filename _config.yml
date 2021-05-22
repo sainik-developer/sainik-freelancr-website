@@ -1,10 +1,3 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
-
 remote_theme: "mmistakes/minimal-mistakes@4.19.3"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
@@ -50,35 +43,6 @@ algolia:
   index_name             : "dev_minimal-mistakes"
   search_only_api_key    : "9d5014e5bbc77372547bce778dfa5663"
   powered_by             : true
-
-# # SEO Related
-# google_site_verification :
-# bing_site_verification   :
-# yandex_site_verification :
-
-# # Social Sharing
-# twitter:
-#   username               : "mmistakes"
-# facebook:
-#   username               :
-#   app_id                 :
-#   publisher              :
-# og_image                 : "/assets/images/bio-photo.jpg"
-# # For specifying social profiles
-# # - https://developers.google.com/structured-data/customize/social-profiles
-# social:
-#   type                   : # Person or Organization (defaults to Person)
-#   name                   : # If the user or organization name differs from the site's name
-#   links: # An array of links to social media profiles
-#     # - https://twitter.com/
-#     - https://github.com/
-
-# # Analytics
-# analytics:
-#   provider               : false # false (default), "google", "google-universal", "custom"
-#   google:
-#     tracking_id          :
-
 
 # Site Author
 author:
