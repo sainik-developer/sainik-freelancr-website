@@ -138,18 +138,6 @@ compress_html:
   ignore:
     envs: development
 
-# Collections
-collections:
-  recipes:
-    output: true
-    permalink: /:collection/:path/
-  pets:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-
 # Defaults
 defaults:
   # _posts
@@ -169,11 +157,11 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _blogs
+  # _portfolio
   - scope:
-      path: "_blogs"
-      type: posts
+      path: ""
+      type: portfolio
     values:
-      layout: blogs
+      layout: single
       author_profile: true
       share: true
