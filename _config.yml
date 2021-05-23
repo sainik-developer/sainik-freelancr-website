@@ -193,10 +193,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _recipes
+  # _blogs
   - scope:
       path: ""
-      type: recipes
+      type: posts
     values:
       layout: single
       author_profile: true
