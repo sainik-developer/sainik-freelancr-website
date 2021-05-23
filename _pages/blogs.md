@@ -1,7 +1,6 @@
 ---
-title: "Product developed by me "
+title: "Technical knowledge sharing"
 permalink: /blogs/
 layout: posts
 author_profile: true
 ---
-

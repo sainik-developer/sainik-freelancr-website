@@ -1,11 +1,9 @@
 ---
-title: "Product developed by me "
+title: "Products"
 permalink: /contact-me/
 layout: posts
 author_profile: true
 ---
-
-
  . Name          : <strong> Sainik Chattapadhyay </strong>
  . Qualification : <strong> Master of Technology, Information Technology Indian Institute of Information Technology, Allahabad </strong>
  . Email         : <strong> sainikchattapadhyay@gmail.com </strong>
