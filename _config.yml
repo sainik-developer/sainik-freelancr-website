@@ -149,7 +149,7 @@ defaults:
       author_profile: true
   # _blogs
   - scope:
-      path: "_blogs"
+      path: "blogs"
       type: blogs
     values:
       layout: single
