@@ -40,7 +40,7 @@ footer:
 include:
   - .htaccess
   - _pages
-  - _portfolio
+  - _blogs
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -109,7 +109,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
   - jekyll-include-cache
 
 # mimic GitHub Pages with --safe
@@ -117,7 +116,6 @@ whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
   - jekyll-include-cache
 
 compress_html:
@@ -125,6 +123,10 @@ compress_html:
   ignore:
     envs: development
 
+collections:
+  blogs:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -145,9 +147,9 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _portfolio
+  # _blogs
   - scope:
-      path: "_portfolio"
+      path: "_blogs"
       type: portfolio
     values:
       layout: single

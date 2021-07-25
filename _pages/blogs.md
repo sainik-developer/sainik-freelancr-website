@@ -1,6 +1,6 @@
 ---
 title: "Technical knowledge sharing"
-permalink: /portfolio/
+permalink: /blogs/
 layout: collection
 collection: portfolio
 entries_layout: grid
