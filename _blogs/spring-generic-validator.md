@@ -1,8 +1,5 @@
 ---
 title: "General purpose cross field POJO/DTO validator"
-toc: true
-toc_label: "My Table of Contents"
-toc_icon: "cog"
 ---
 
 ## What is it ? 
