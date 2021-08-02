@@ -11,7 +11,7 @@ Known benefits:
 2. Higher code readability as validation constraints are written in POJO/DTO. 
 
 ## Technical background 
-### what is already in the java world to address the POJO field validation
+### What is already in the java world to address the POJO field validation
 
 Java world is very familiar with POJO/DTO validator for a while, and it's well organized, stable and known to most. 
 It was part of JSR(Java Specification Requests)-380 and implemented by hibernate community to be used in open source project. 
@@ -50,7 +50,7 @@ Second contribution
 Framework to extend the validation for developer using given interfaces and classes in `javax.validator`. 
 
 ### What is tried to bring 
-#### what is cross field validation ? 
+#### What is cross field validation ? 
 Below is a sample class which as few field. But suppose there is a requirements as below 
 Validation requirements 
 1. `name` should be not empty string. 
