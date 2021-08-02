@@ -1,8 +1,7 @@
 ---
-title: "Spring validator using SpEl"
+title: "General purpose cross field POJO/DTO validator"
 ---
 
-# General purpose cross field POJO/DTO validator
 ## What is it ? 
 It's a leap to more general purpose java validator. It uses spring expression library to implement a generic cross field POJO (bean) validator.It reduces boilerplate code by using reusable 
 custom validator using spring's internal expression evaluator and help us avoid writing DTO specific custom validator or service layer logic. It makes code more readable.
