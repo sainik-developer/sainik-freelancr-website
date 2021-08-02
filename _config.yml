@@ -159,3 +159,4 @@ defaults:
       layout: single
       classes: wide
       read_time: true
+      author_profile: false
