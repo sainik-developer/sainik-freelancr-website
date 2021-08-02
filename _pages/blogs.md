@@ -4,6 +4,5 @@ permalink: /blogs/
 layout: collection
 collection: blogs
 author_profile: true
-entries_layout: grid
 classes: wide
 ---
