@@ -1,7 +1,7 @@
 ---
 title: "Technical knowledge sharing"
 permalink: /blogs/
-layout: posts
+layout: collection
 collection: blogs
 author_profile: true
 ---
