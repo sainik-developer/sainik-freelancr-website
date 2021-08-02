@@ -157,4 +157,5 @@ defaults:
       type: blogs
     values:
       layout: single
+      class: wide
       read_time: true
