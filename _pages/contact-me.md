@@ -1,7 +1,7 @@
 ---
 title: "Products"
 permalink: /contact-me/
-layout: posts
+layout: single
 author_profile: true
 ---
  . Name          : <strong> Sainik Chattapadhyay </strong>
