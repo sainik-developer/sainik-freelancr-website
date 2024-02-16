@@ -1,5 +1,5 @@
 ---
-title: "Products"
+title: "Contact"
 permalink: /contact-me/
 layout: single
 author_profile: true
