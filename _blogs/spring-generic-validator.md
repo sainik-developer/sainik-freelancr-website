@@ -1,40 +1,33 @@
 ---
-title: "General purpose cross field POJO/DTO validator"
+title: "Generic inter-field bean validator using SpEl"
 ---
 
 ## What is it ? 
-It's a leap to more general purpose java validator. It uses spring expression library to implement a generic cross field POJO (bean) validator.It reduces boilerplate code by using reusable 
-custom validator using spring's internal expression evaluator and help us avoid writing DTO specific custom validator or service layer logic. It makes code more readable.
- 
+It's a generic validator by using spring exprssion language to specify contraints in Spring code. Improves readability by keeping validation logic in 
+same POJO/DTO . It's a type(Class) level validator where inter field constraints can be specified easily by SpEl. 
+
 Known benefits:  
-1. General purpose code to avoid writing POJO/DTO specific custom validator or service layer verbose if-else logic
-2. Higher code readability as validation constraints are written in POJO/DTO. 
+1. Avoid writting custom validator for diffrent beans.
+2. High readability by keeping constraints in same bean class.
+3. Allow to express validation logic by SpEl (Spring expression language)
 
 ## Technical background 
-### What is already in the java world to address the POJO field validation
+### Brief hisroty of validator in Java world
 
-Java world is very familiar with POJO/DTO validator for a while, and it's well organized, stable and known to most. 
-It was part of JSR(Java Specification Requests)-380 and implemented by hibernate community to be used in open source project. 
-It comes with spring-boot framework and it's well used/known. 
+J2EE(Spring) is well familiar with POJO/DTO validator for long, it's well organized, standadised by java community 
+and used by most. It's JSR(Java Specification Requests)-380 and implemented and maintained by hibernate community.
+Spring supports JSR-380 inherently.
 
 #### What's addressed by JSR-380
-JSR-380 requirements api is captured in `javax.validation:validation-api`
+JSR-380 requirements is captured in below artifact
 ```html
 <dependency>
     <groupId>javax.validation</groupId>
     <artifactId>validation-api</artifactId>
 </dependency>
 ```
-It's implemented by hibernate community and open sourced under the package
-```html
-<dependency>
-    <groupId>org.hibernate.validator</groupId>
-    <artifactId>hibernate-validator</artifactId>
-</dependency>
-```
-first contribution 
-Below is list of some javax validators specified in `javax.validator` and implemented by hibernate.
-
+It came up with an extendiable frameowkr which allows user to implement their requirements when default validators does not support so user can extends it.
+These are validators specified in `javax.validator.validation-api`
 |                 |                   |               |                |
 |---------------- | ----------------- | ------------- | -------------- |
 | AssertFalse     | Future            | NotBlank      | Pattern        |
@@ -44,7 +37,18 @@ Below is list of some javax validators specified in `javax.validator` and implem
 | Digits          | Negative          | Past          |                | 
 | Email           | NegativeOrZero    | PastOrPresent |                | 
 
-Nature of all validator is either at class level or field level but does not address the cross field validator in a POJO/DTO
+It's implemented by hibernate community and being used by spring
+
+```html
+<dependency>
+    <groupId>org.hibernate.validator</groupId>
+    <artifactId>hibernate-validator</artifactId>
+</dependency>
+```
+
+first contribution 
+
+Nature of all validator is either at class level or field level but does not address the inter field validator in a bean
 
 Second contribution 
 Framework to extend the validation for developer using given interfaces and classes in `javax.validator`. 
