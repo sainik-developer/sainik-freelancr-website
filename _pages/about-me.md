@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## **Intro** 
-My name is Sainik Chattapadhyay,having 10+ years of experiences of developing software with large, small and R&D companies in India and Europe. I have complated my Master of Technology from *Indian Institute of Information Technology, Allahabad*. Experiece in developing Android app and full stack app with best architecture.I have my own android library and which is partly open-sourced at [link to EBook Player!](https://github.com/sainik-developer/ebook_Player). I am experienced with software architecture for android and backend system. I have long exposure of AWS architecture. 
+My name is Sainik Chattapadhyay,having 10+ years of experiences of developing software with large, small and R&D companies in India and Europe. I have complated my Master of Technology from *Indian Institute of Information Technology, Allahabad*. Experience in developing Android app and full stack app with best architecture.I have my own android library and which is partly open-sourced at [link to EBook Player!](https://github.com/sainik-developer/ebook_Player). I am experienced with software architecture for android and backend system. I have long exposure of AWS architecture. 
 
 ## Skills 
  * Programming Language : Java(8+ and prior), Kotlin, Scala, , Java script, Type script, Shell script.
